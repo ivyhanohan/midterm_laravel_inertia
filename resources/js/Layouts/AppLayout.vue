@@ -8,7 +8,7 @@ import { Link } from '@inertiajs/vue3';
 
     <nav class="bg-purple-700 text-white p-4 shadow-md">
       <div class="container mx-auto flex justify-between">
-        <div class="text-lg font-bold">Car Auction</div>
+        <div class="text-lg font-bold">Welcome</div>
         <ul class="flex space-x-4">
           <li><Link href="/" class="hover:underline">Home</Link></li>
           <li><Link href="/bidders" class="hover:underline">Bidders</Link></li>
